@@ -3,12 +3,12 @@ Summarizing text with Spring AI
 This example shows how to summarize a document using Spring AI.
 
 Before running the application, you'll need to obtain an API key for OpenAI's
-API. Go to https://openai.com/, sign up for an account, and generate an API key.
-Once you have an API key, set it to the `OPENAI_API_KEY` environment variable.
+API. Go to https://api.deepseek.com, sign up for an account, and generate an API key.
+Once you have an API key, set it to the `DEEPSEEK_API_KEY` environment variable.
 For example:
 
 ~~~
-% export OPENAI_API_KEY=sk-...
+% export DEEPSEEK_API_KEY=sk-...
 ~~~
 
 (The actual API key will be quite a bit longer.)
